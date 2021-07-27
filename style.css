@@ -362,6 +362,40 @@ a:hover {
     z-index: 2;
 }
 
+
+/*Modification de Mathieu Oka*/
+
+.col-sm-12 p{
+
+    font-size: 22px!important;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.citation{
+    font-size: 21px;
+    font-style: italic;
+    color: #000000;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.signature-citation{
+    margin-top: -1rem;
+    font-size: 13px;
+}
+.col-sm-4 li{
+    text-decoration: none;
+    color: white!important;
+    list-style: none;
+}
+.col-sm-4 a{
+    color: white!important;
+}
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -677,11 +711,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 740px;
     margin: auto auto auto auto;
 }
 
@@ -775,7 +809,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
