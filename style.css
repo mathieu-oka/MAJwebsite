@@ -365,7 +365,7 @@ a:hover {
 
 /*Modification de Mathieu Oka*/
 
-.col-sm-12 p{
+.col-sm-12 h2{
 
     font-size: 22px!important;
     width: 600px;
@@ -805,7 +805,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #0056A0;
 }
 
 .tc-white {
@@ -813,7 +813,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #0056A0;
     color: #FFFFFF!important;
 }
 
@@ -831,7 +831,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #0056A0!important;
 }
 
 .ltc-atomic-tangerine:hover {
