@@ -368,7 +368,6 @@ a:hover {
 .col-sm-12 h2{
 
     font-size: 22px!important;
-    width: 600px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -377,7 +376,6 @@ a:hover {
     font-size: 21px;
     font-style: italic;
     color: #000000;
-    width: 550px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -397,6 +395,14 @@ a:hover {
 
 
 @media (min-width: 768px) {
+    .col-sm-12 h2{
+
+        width: 600px;
+    }
+    
+    .citation{
+        width: 550px;
+    }
     .site-navigation {
         position: absolute;
         top: 50%;
@@ -818,7 +824,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #002942!important;
     color: #FFFFFF!important;
 }
 
@@ -835,7 +841,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #002942!important;
 }
 
 .icon-dark-slate-blue {
@@ -871,6 +877,7 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
