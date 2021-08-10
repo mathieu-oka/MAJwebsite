@@ -397,9 +397,7 @@ a:hover {
     margin-right: auto;
 
 }
-.col-sm-6 img{
-    height: 340px;
-}
+
 
 @media (min-width: 768px) {
     .col-sm-12 h2{
